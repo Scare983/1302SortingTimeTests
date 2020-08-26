@@ -1,0 +1,47 @@
+Array of 100 people:
+Prepending Jackie Chan: 8732
+
+Appending John Cena 6274
+
+Getting person at location 5: 5046
+Removing: uat index 5:6287
+
+Search for person not in list: 17691
+
+
+
+Array of 1000 People:Prepending Jackie Chan: 34137
+
+Appending John Cena 29612
+
+Getting person at index 500:  733
+Removing person: i at index 50036560
+
+Search for person not in list: 411906
+
+
+
+Array of 10000 People:Prepending Jackie Chan: 360220
+
+Appending John Cena 361960
+
+Getting person at index 5000:   1449
+
+Removing personuat index 5000:  391000
+
+Search for person not in list: 772157
+
+
+
+Array of 100000 people:Prepending Jackie Chan: 1212594
+
+Appending John Cena 3325155
+
+Getting person at index 50000:  1653
+
+Removing g person at index 50000:  3230817
+
+Search for person not in list: 3618367
+
+
+

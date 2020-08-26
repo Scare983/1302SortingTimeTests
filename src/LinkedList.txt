@@ -1,0 +1,47 @@
+:qray of 100 people:
+Prepending Jackie Chan: 6780
+
+Appending John Cena 5331
+
+Getting person at location 5: 6278
+Removing: fat index 5:3460
+
+Search for person not in list: 10340
+
+
+
+Array of 1000 People:Prepending Jackie Chan: 1024
+
+Appending John Cena 1076
+
+Getting person at index 500:  9050
+Removing person: g at index 50011698
+
+Search for person not in list: 58277
+
+
+
+Array of 10000 People:Prepending Jackie Chan: 3945
+
+Appending John Cena 2222
+
+Getting person at index 5000:   100983
+
+Removing personlat index 5000:  116657
+
+Search for person not in list: 526784
+
+
+
+Array of 100000 people:Prepending Jackie Chan: 9404
+
+Appending John Cena 3403
+
+Getting person at index 50000:  1038064
+
+Removing i person at index 50000:  1145176
+
+Search for person not in list: 4650507
+
+
+
